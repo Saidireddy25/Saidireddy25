@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saidireddy25
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning java programming
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m looking to collaborate with web developers
 - 📫 How to reach me : saidireddykarnati@gmail.com
 
 <!---
